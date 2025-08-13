@@ -34,3 +34,10 @@ String (Reversed Polarity)
 #### OpenCV: For image and video processing.
 
 #### Python: Primary programming language.
+
+## Screenshots
+
+### Web App -streamlit
+
+![App Screenshot](Screenshot%202025-08-12%20203921.png)
+
