@@ -39,5 +39,5 @@ String (Reversed Polarity)
 
 ### Web App -streamlit
 
-![App Screenshot](Screenshot 2025-08-13 204246.png)
+![App Screenshot](https://github.com/sanika-cs/Thermal-Solar-PV-Anomaly-Detection-/blob/main/Screenshot%202025-08-13%20204246.png)
 
