@@ -4,9 +4,9 @@ This repository hosts a real-time anomaly detection application for photovoltaic
 
 ##  Key Features
 
-### Model Training: Trained YOLOv8 model on the ThermoSolar-PV dataset to identify thermal anomalies in PV modules.
+#### Model Training: Trained YOLOv8 model on the ThermoSolar-PV dataset to identify thermal anomalies in PV modules.
 
-### Streamlit Interface: Developed a local Streamlit application supporting both image and video inputs for real-time anomaly detection.
+#### Streamlit Interface: Developed a local Streamlit application supporting both image and video inputs for real-time anomaly detection.
 
 #### Anomaly Detection: Capable of detecting the following anomalies:
 
@@ -27,10 +27,10 @@ String (Open Circuit)
 String (Reversed Polarity)
 
 ## 🛠️ Technologies Used
-YOLOv8: For object detection and classification.
+#### YOLOv8: For object detection and classification.
 
 #### Streamlit: For building the interactive web application.
 
-OpenCV: For image and video processing.
+#### OpenCV: For image and video processing.
 
-Python: Primary programming language.
+#### Python: Primary programming language.
